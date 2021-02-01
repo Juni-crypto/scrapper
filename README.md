@@ -3,7 +3,6 @@ The main aim of this package is to cluster common scraping tasks so as to make i
 <li>Text
     <ul>
         <li><a href="https://github.com/Juni-crypto/scrapper/blob/master/amazon.py">Amazon Product Reviews</a></li>
-        <li><a href="https://github.com/Juni-crypto/scrapper/blob/master/imdb.py">IMDB Reviews Scraper</a></li>
-       
+        <li><a href="https://github.com/Juni-crypto/scrapper/blob/master/imdb.py">IMDB Reviews Scraper</a></li>   
     </ul>
 </li>
